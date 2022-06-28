@@ -35,6 +35,10 @@
     <script src="home.js" defer type="text/babel"></script>
     <script src="index.js" defer type="text/babel"></script>
 
-      
     </body>
 </html>
+
+
+
+
+
