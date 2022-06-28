@@ -2,7 +2,7 @@ function Home(){
   return (
     <Card
       bgcolor="primary"
-      txtcolor="light"
+      txtcolor="white"
       header="BadBank Landing Module"
       title="Welcome to Bad Bank"
       text="Interact with the menu to begin!"
